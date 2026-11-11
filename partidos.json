@@ -1,5 +1,11 @@
 [
   {
+    "id": "rtv_chota",
+    "nombre": "RTV Chota",
+    "url": "https://www.facebook.com/100040087676511/videos/1355812236506179",
+    "icono": "https://github.com/rockleee21/Partidos/blob/main/rtv.jpg?raw=true"
+  },
+  {
     "id": "2",
     "nombre": "La 18hd",
     "url": "https://la18hd.su/eventos/",
